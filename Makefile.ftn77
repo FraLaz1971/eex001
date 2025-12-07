@@ -1,0 +1,25 @@
+FC=ftn77
+FD=slink
+OEXT=.obj
+EEXT=.exe
+RM=del /Q /F
+FFLAGS=
+FDFLAGS=
+LIBS=
+SRCS=sales1.f sales2.f th1.f th2.f surv.f create_surv_datas.f
+
+OBJS = $(SRCS:.f=$(OEXT))
+TARGETS = $(OBJS:$(OEXT)=$(EEXT))
+.PHONY: all clean
+
+all: $(OBJS) $(TARGETS)
+
+%$(OEXT): %.f
+	$(FC)  $(FFLAGS)  $<
+
+%$(EEXT): %$(OEXT)
+	$(FD) -OUT:$@ $^ $(FDFLAGS) $(LIBS)
+
+clean:
+	$(RM) $(OBJS) $(TARGETS)
+
