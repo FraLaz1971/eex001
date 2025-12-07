@@ -1,0 +1,79 @@
+      PROGRAM SCSU
+        INTEGER I,N,NM,NF,FFEM,MFEM,N18P,UL18,UM45,SL18,SM45
+        REAL AL18,AM45
+        CHARACTER*80 IFNAM
+        CHARACTER*10 TEMP
+        INTEGER GRC,GRCV
+        PARAMETER(N=20)
+        CHARACTER*20 NAME(N)
+        CHARACTER*80 SFN
+        INTEGER SEX(N),JS(N),AGE(N),SALARY(N),OSAL(N)
+C NMU=NUMBER OF MONTHS UNEMPLOYED
+C NWC=NON WORKING CODE
+        INTEGER NMU(N),NWC(N)
+        DATA IFNAM/'jobsurvey001.txt'/
+        I=1
+        OPEN(11,FILE=IFNAM,ERR=9000)
+        NM=0
+        NF=0
+        N18P=0
+        FFEM=0
+        MFEM=0
+        AL18=0.0
+        AM45=0.0
+        SL18=0
+        SM45=0
+        UL18=0
+        UM45=0
+10      READ(11,105,ERR=9100,END=80) NAME(I),SEX(I),JS(I),TEMP
+        PRINT *,'NAME:',NAME(I)
+        IF (SEX(I).EQ.9) GOTO 90
+        IF(JS(I).EQ.1) THEN
+            IF (SEX(I).EQ.1) THEN
+            NF=NF+1
+                READ(TEMP,'(I2)') AGE(I)
+                IF(AGE(I).GE.18) FFEM = FFEM + 1
+            ELSE IF((SEX(I).EQ.0)) THEN
+            NM=NM+1
+                READ(TEMP,'(I2)') AGE(I)
+                IF(AGE(I).GE.18) MFEM = MFEM + 1
+            END IF
+        ELSE IF(JS(I).EQ.4) THEN
+          READ(TEMP,'(I2,2X,I3)') AGE(I),NMU(I)
+          IF(AGE(I).LT.18) THEN
+            UL18 = UL18 + 1
+            SL18 = SL18 + NMU(I)
+          ELSE IF(AGE(I).GT.45) THEN
+            UM45 = UM45 + 1
+            SM45 = SM45 + NMU(I)
+          END IF
+        ELSE
+            CONTINUE
+        END IF
+        I = I + 1
+        GOTO 10
+80      PRINT *,'END OF FILE REACHED'
+90      CLOSE(11)
+C WRITE THE PERCENTAGE FOR EACH SEX OF PEOPLE IN FULL EDUCATION WITH AGE>=18
+        PRINT 170,MFEM,NM,FFEM,NF
+        IF((NM.GT.0).AND.(NF.GT.0)) PRINT *,'MALE: ',MFEM*100/(NM),'%'
+     & ,'FEMALE: ',FFEM*100/(NF),'%'
+C WRITE THE AVERAGE LENGTH OF UNEMPLOYEMENT FOR THOSE <18 AND THOSE >45
+        IF((UL18.GT.0).AND.(UM45.GT.0)) PRINT *,'AVG U. LEN FOR <18',
+     &   SL18/UL18,'AVG U. LEN FOR >45',SM45/UM45
+        GOTO 9999
+105   FORMAT(A20,2X,I1,1X,I1,2X,A)
+110   FORMAT(A20,2X,I1,1X,I1,2X,I2)
+120   FORMAT(A20,2X,I1,1X,I1,2X,I4)
+130   FORMAT(A20,2X,I1,1X,I1,2X,I4,2X,I4)
+140   FORMAT(A20,2X,I1,1X,I1,2X,I2,2X,I3)
+150   FORMAT(A20,2X,I1,1X,I1,2X,I2,1X,I1)
+160   FORMAT(22X,I1,1X,I1)
+170   FORMAT('N. M. STUD. 18+: ',I2,' vs ',I2
+     & ' N. F. STUD. 18+: ',I2,' vs ',I2)
+9000    PRINT *,'ERROR IN OPENING INPUT FILE'
+        GOTO 9999
+9100    PRINT *,'ERROR IN READING DATA'
+        GOTO 9999
+9999    STOP
+      END
