@@ -1,0 +1,53 @@
+      PROGRAM SURV
+        IMPLICIT NONE
+        INTEGER I,MAXDATA
+        PARAMETER(MAXDATA=100)
+        CHARACTER*20 NAME(MAXDATA)
+        CHARACTER*1 SEX(MAXDATA)
+C IN YEARS YY
+        INTEGER AGE(MAXDATA)
+        INTEGER HEIGHT(MAXDATA)
+        REAL WEIGHT(MAXDATA)
+        CHARACTER*80 SFN
+C NFH1=n. of females with age in [21,35]
+        INTEGER NFH1,NFW2
+        REAL SUMFH1,AVGFH1,SUMFW2,AVGFW2
+        DATA SUMFH1/0.0/,SUMFW2/0.0/
+        DATA AVGFH1/0.0/,AVGFW2/0.0/
+        DATA NFH1/0/,NFW2/0/
+        DATA SFN/'survey001.txt'/
+        OPEN(11,FILE=SFN,ERR=9100)
+        DO 10,I=1,MAXDATA
+          READ(11,100,END=15,ERR=9000)NAME(I),SEX(I),AGE(I),HEIGHT(I),
+     & WEIGHT(I)
+          IF (SEX(I).EQ.'1') THEN
+            IF((AGE(I).GE.21).AND.(AGE(I).LE.35)) THEN
+              SUMFH1 = SUMFH1 + HEIGHT(I)
+              NFH1 = NFH1 + 1
+              IF (HEIGHT(I).GT.170) THEN
+                SUMFW2 = SUMFW2 + WEIGHT(I)
+                NFW2 = NFW2 + 1
+              END IF
+            END IF
+        ELSE IF (SEX(I).EQ.'0') THEN
+            CONTINUE
+        ELSE IF (SEX(I).EQ.'9') THEN
+            GOTO 15
+        ELSE
+            CONTINUE
+        END IF
+10      CONTINUE
+        CLOSE(11)
+15      PRINT *, 'READ ',I,' RECORDS'
+        IF (NFH1.GT.0) AVGFH1=SUMFH1/NFH1
+        IF (NFW2.GT.0) AVGFW2=SUMFW2/NFW2
+        PRINT *,'AVG HEIGHT Group 1:',AVGFH1
+        PRINT *,'AVG WEIGHT Group 2:',AVGFW2
+C PROCESS DATA
+        GOTO 9999
+100   FORMAT(A20,2X,A1,3X,I2,2X,I3,2X,F5.2)
+9000  PRINT *,'ERROR IN READING SURVEY DATA'
+      GOTO 9999
+9100  PRINT *,'ERROR IN OPENING SURVEY DATA FILE'
+9999  STOP
+      END

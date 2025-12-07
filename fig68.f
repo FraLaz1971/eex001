@@ -1,0 +1,10 @@
+      PROGRAM FIG68
+        IMPLICIT NONE
+        INTEGER I
+        REAL THIRD,X
+        THIRD=1.0/3.0
+        DO 10,I=1,10
+          WRITE(*,201) REAL(I),SQRT(REAL(I)),REAL(I)**THIRD
+10      CONTINUE
+201   FORMAT(3F10.4)
+      END

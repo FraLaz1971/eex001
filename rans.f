@@ -1,0 +1,23 @@
+      SUBROUTINE INIRAN
+  	    CALL DATE_TIME_SEED@()
+  	    RETURN
+      END
+
+      INTEGER FUNCTION GRC(I)
+	    IMPLICIT NONE
+	    INTEGER I
+        DOUBLE PRECISION R,RANDOM
+	    R = RANDOM()
+	    GRC = INT(R*I)
+  	    RETURN
+      END
+
+      REAL FUNCTION GRCR(I)
+	    IMPLICIT NONE
+	    INTEGER I
+        DOUBLE PRECISION R,RANDOM
+	    R = RANDOM()
+	    GRCR=R*I
+  	    RETURN
+      END
+

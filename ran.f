@@ -1,0 +1,22 @@
+      SUBROUTINE INIRAN
+  	    CALL RANDOM_SEED()
+        RETURN
+      END
+
+      INTEGER FUNCTION GRC(I)
+	    IMPLICIT NONE
+	    INTEGER I
+	    REAL R
+	    CALL RANDOM_NUMBER(R)
+	    GRC = INT(R*I)
+        RETURN
+      END
+
+      REAL FUNCTION GRCR(I)
+	    IMPLICIT NONE
+	    INTEGER I
+	    REAL R
+	    CALL RANDOM_NUMBER(R)
+	    GRCR=R*I
+        RETURN
+      END
