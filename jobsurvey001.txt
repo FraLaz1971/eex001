@@ -1,0 +1,1005 @@
+Mary Johns            1 3   991   507
+Andrew Richley        0 4  36   15
+Mary Smith            1 2  1158
+John Johnson          0 1  39
+Linda Williams        1 1  21
+Barbara Brown         1 1  46
+Elizabeth Jones       1 5  23 3
+David Miller          0 1  40
+Richard Davis         0 2  1301
+Susan Garcia          1 1  49
+Margaret Rodriguez    1 2  2096
+Thomas Wilson         0 1  38
+Christopher Martinez  0 3  1214   509
+Daniel Anderson       0 2  1165
+Paul Taylor           0 2  1024
+Mark Thomas           0 5  40 2
+Donald Hernandez      0 5  49 2
+Sandra Moore          1 3   856   812
+Kenneth Martin        0 3  1256   774
+Carol Jackson         1 4  39    7
+Edward Thompson       0 2  2035
+Sharon White          1 2  2118
+Ronald Lopez          0 2  1493
+Anthony Lee           0 5  43 1
+Kevin Gonzalez        0 3  1434   644
+Kimberly Harris       1 3   950   658
+Matthew Clark         0 4  28   46
+Jessica Lewis         1 3  1426   921
+Timothy Robinson      0 4  44   48
+Cynthia Walker        1 5  45 3
+Larry Perez           0 3  1407   721
+Jeffrey Hall          0 5  22 3
+Frank Young           0 2   858
+Amy Allen             1 2  1326
+Eric Sanchez          0 2   879
+Stephen Wright        0 3  1070   572
+Virginia King         1 3   801   769
+Kathleen Scott        1 2  1238
+Gregory Green         0 4  27    8
+Martha Baker          1 5  50 2
+Jerry Adams           0 2  1517
+Amanda Nelson         1 2  1230
+Stephanie Hill        1 3   591   844
+Carolyn Ramirez       1 1  30
+Christine Campbell    1 5  23 2
+Marie Mitchell        1 4  25   38
+Janet Roberts         1 5  53 3
+Henry Carter          0 1  37
+Carl Phillips         0 5  24 1
+Ann Evans             1 1  15
+Joyce Turner          1 1  20
+Roger Torres          0 3  1302   859
+Joe Parker            0 4  48   39
+Julie Collins         1 2  1011
+Jack Edwards          0 4  17   33
+Albert Stewart        0 4  34   46
+Jonathan Flores       0 4  48   47
+Justin Morris         0 5  53 1
+Terry Nguyen          0 4  51   22
+Gerald Murphy         0 1  41
+Cheryl Rivera         1 4  32   39
+Samuel Cook           0 1  43
+Willie Rogers         0 5  15 2
+Ralph Morgan          0 4  46   35
+Lawrence Peterson     0 3  1260   963
+Nicholas Cooper       0 3   553   753
+Roy Reed              0 2  1255
+Janice Bailey         1 2  1005
+Kelly Bell            1 3  1036   891
+Brandon Gomez         0 4  53   42
+Adam Kelly            0 5  48 3
+Harry Howard          0 1  48
+Kathy Ward            1 2   938
+Theresa Cox           1 2  2237
+Beverly Diaz          1 5  21 2
+Steve Richardson      0 4  44   33
+Louis Wood            0 1  15
+Jeremy Watson         0 1  30
+Aaron Brooks          0 3  1093   618
+Randy Bennett         0 4  51   48
+Rachel Gray           1 4  53   27
+Eugene James          0 5  46 1
+Carlos Reyes          0 1  18
+Kathryn Cruz          1 2  1493
+Louise Hughes         1 1  51
+Victor Price          0 2  1282
+Martin Myers          0 3  1003   698
+Ernest Long           0 2  1385
+Wanda Foster          1 1  23
+Todd Sanders          0 4  52   17
+Jesse Ross            0 3  1114   504
+Craig Morales         0 4  38   11
+Alan Powell           0 4  22   41
+Tina Sullivan         1 1  24
+Clarence Russell      0 1  35
+Sean Ortiz            0 5  29 1
+Paula Jenkins         1 5  49 3
+Chris Gutierrez       0 3  1256   661
+Annie Perry           1 5  41 3
+Lillian Butler        1 4  18   25
+Jimmy Barnes          0 5  28 1
+Robin Fisher          1 4  21   20
+Peggy Henderson       1 2  2027
+Crystal Coleman       1 2  1102
+Tony Simmons          0 1  51
+Luis Patterson        0 1  32
+Mike Jordan           0 4  15   10
+Stanley Reynolds      0 4  53   42
+Leonard Hamilton      0 5  31 2
+Nathan Graham         0 3  1186   944
+Dale Kim              0 2  1342
+Tiffany Gonzales      1 5  54 3
+Rodney Alexander      0 3   872   732
+Curtis Ramos          0 2  1118
+Norman Wallace        0 1  21
+Allen Griffin         0 4  48   11
+Wendy West            1 2  2045
+Vincent Cole          0 2  1753
+Glenn Hayes           0 2  2283
+Jeffery Chavez        0 1  37
+Travis Gibson         0 5  29 3
+Jeff Bryant           0 3  1272   708
+Chad Ellis            0 1  22
+Thelma Stevens        1 2  1557
+Shannon Murray        1 1  53
+Sheila Ford           1 5  31 3
+Ethel Marshall        1 2  1595
+Ellen Owens           1 4  25   18
+Elaine Mcdonald       1 1  42
+Marjorie Harrison     1 5  38 2
+Jesus Ruiz            0 1  25
+Herbert Kennedy       0 5  20 2
+Frederick Wells       0 4  36   15
+Esther Alvarez        1 1  18
+Pauline Woods         1 1  20
+Emma Mendoza          1 2  1251
+Juanita Castillo      1 5  52 1
+Anita Olson           1 2  2027
+Rhonda Webb           1 5  21 2
+Hazel Washington      1 4  40   31
+Randall Tucker        0 4  20   11
+Barry Freeman         0 5  45 2
+Alexander Burns       0 3   502   564
+Bernard Henry         0 4  25    8
+Mario Vasquez         0 5  25 1
+Leroy Snyder          0 3   615   773
+Francisco Simpson     0 1  52
+Jamie Crawford        1 4  35   48
+Joanne Jimenez        1 3   760   794
+Theodore Porter       0 1  48
+Valerie Mason         1 2  2029
+Danielle Shaw         1 3  1054   559
+Megan Gordon          1 2  1280
+Jay Wagner            0 3   587   931
+Jim Hunter            0 4  29   16
+Tom Romero            0 3  1456   900
+Gail Hicks            1 5  47 3
+Alex Dixon            0 3  1043   618
+Darlene Hunt          1 3  1360   571
+Ronnie Palmer         0 4  47   14
+Jill Robertson        1 2  1596
+Erin Black            1 5  31 2
+Tommy Holmes          0 1  22
+Lauren Stone          1 5  28 1
+Derek Meyer           0 1  41
+Warren Boyd           0 3   613   609
+Darrell Mills         0 4  25    2
+Lynn Warren           1 1  24
+Sally Fox             1 5  31 3
+Leo Rose              0 1  28
+Alvin Rice            0 3  1013   835
+Beatrice Moreno       1 5  26 2
+Wesley Schmidt        0 1  22
+Gordon Patel          0 1  17
+Dean Ferguson         0 3  1445   725
+Greg Nichols          0 2  2267
+Annette Herrera       1 4  27    3
+Dustin Medina         0 5  49 3
+Pedro Ryan            0 2  1792
+Derrick Fernandez     0 2  1381
+Dana Weaver           1 2  1952
+Stacy Daniels         1 5  18 1
+Ana Stephens          1 5  20 1
+Corey Gardner         0 3   673   554
+Ida Payne             1 4  46   48
+Maurice Kelley        0 2  2020
+Vernon Dunn           0 1  25
+Roberto Pierce        0 4  23   46
+Clyde Arnold          0 3  1202   768
+Glen Tran             0 5  44 1
+Loretta Spencer       1 3  1481   679
+Yolanda Peters        1 1  21
+Jeanette Hawkins      1 4  33   10
+Laurie Grant          1 4  40    9
+Rick Hansen           0 2  2292
+Lester Castro         0 5  18 2
+Vanessa Hoffman       1 3  1272   972
+Alma Hart             1 5  39 3
+Sue Elliott           1 1  19
+Elsie Cunningham      1 3   986   657
+Beth Knight           1 2  1423
+Gene Bradley          0 4  21    6
+Marc Carroll          0 1  37
+Carla Hudson          1 5  26 3
+Ruben Duncan          0 4  27   25
+Brett Armstrong       0 4  38    5
+Eileen Berry          1 1  49
+Terri Andrews         1 3  1080   877
+Gertrude Johnston     1 2  1668
+Lucy Ray              1 5  28 2
+Tonya Lane            1 5  53 1
+Milton Riley          0 3  1332   662
+Stacey Carpenter      1 5  29 3
+Wilma Perkins         1 2  2145
+Chester Aguilar       0 5  26 2
+Cecil Silva           0 1  39
+Jessie Richards       1 1  19
+Franklin Willis       0 1  45
+Agnes Matthews        1 2  1940
+Vera Chapman          1 5  44 1
+Brad Lawrence         0 3  1043   802
+Gabriel Garza         0 3  1481   927
+Ron Vargas            0 3   560   809
+Mitchell Watkins      0 3  1435   776
+Melinda Wheeler       1 2  1350
+Arnold Larson         0 5  27 2
+Harvey Carlson        0 2  1403
+Maureen Harper        1 5  33 2
+Colleen George        1 1  46
+Allison Greene        1 2  1363
+Cory Burke            0 1  40
+Claude Guzman         0 5  54 1
+Georgia Morrison      1 3  1378   881
+Darryl Munoz          0 3   891   909
+Lillie Jacobs         1 4  54   17
+Neil Obrien           0 5  15 3
+Jackie Lawson         1 2   928
+Marcia Franklin       1 1  26
+Tanya Lynch           1 3   967   709
+Fernando Bishop       0 4  37    3
+Clinton Carr          0 2   868
+Marlene Salazar       1 1  42
+Mathew Austin         0 2  1950
+Glenda Mendez         1 4  39   14
+Darren Gilbert        0 1  38
+Lonnie Jensen         0 5  30 1
+Lance Williamson      0 3  1229   635
+Marian Montgomery     1 3   520   792
+Julio Harvey          0 5  19 2
+Caroline Oliver       1 5  22 2
+Kurt Howell           0 5  46 1
+Jo Dean               1 2  1098
+Vickie Hanson         1 1  21
+Guy Weber             0 4  19   18
+Terry Garrett         1 4  48   24
+Hugh Sims             0 5  48 1
+Max Burton            0 4  30   27
+Mabel Fuller          1 4  30   28
+Marsha Soto           1 5  31 2
+Armando Mccoy         0 1  18
+Felix Welch           0 4  21   20
+Christy Chen          1 1  16
+Everett Schultz       0 2   808
+Jordan Walters        0 2  1451
+Ian Reid              0 4  18   10
+Wallace Fields        0 2   917
+Ken Walsh             0 5  54 3
+Nora Little           1 1  36
+Margie Fowler         1 5  41 3
+Nina Bowman           1 2  1427
+Cassandra Davidson    1 3  1369   626
+Leah May              1 3  1311   509
+Dave Day              0 2  1544
+Kay Schneider         1 2  1275
+Priscilla Newman      1 2  1190
+Sidney Brewer         0 2  1078
+Carole Lucas          1 1  33
+Brandy Holland        1 2   913
+Olga Wong             1 5  54 2
+Billie Banks          1 5  26 3
+Clifton Santos        0 3  1112   763
+Tracey Curtis         1 5  49 3
+Daryl Pearson         0 4  34   25
+Jenny Delgado         1 2  1706
+Felicia Valdez        1 5  32 3
+Sonia Pena            1 3  1498   850
+Miriam Rios           1 3  1452   755
+Salvador Douglas      0 2  1425
+Perry Sandoval        0 5  22 3
+Bobbie Barrett        1 1  40
+Sergio Hopkins        0 3   651   873
+Kristina Keller       1 5  51 1
+Tracy Guerrero        0 1  49
+Seth Stanley          0 5  37 2
+Mae Bates             1 3   883   616
+Terrance Alvarado     0 4  54   43
+Rene Beck             0 1  45
+Ramona Ortega         1 3   802   719
+Sherri Wade           1 1  19
+Erika Estrada         1 4  17   30
+Freddie Contreras     0 2  1610
+Wade Barnett          0 2  2019
+Lindsey Caldwell      1 4  42   18
+Lindsay Santiago      1 4  45   38
+Geneva Lambert        1 2   860
+Michael Powers        0 4  39   48
+Belinda Chambers      1 2  1629
+David Nunez           0 3  1146   772
+Sheryl Craig          1 2  1684
+Cora Leonard          1 4  52   32
+Joseph Lowe           0 2  2193
+Ada Rhodes            1 4  49   38
+Christopher Byrd      0 5  20 1
+Daniel Gregory        0 4  53   37
+Paul Shelton          0 3  1017   821
+Mark Frazier          0 4  39    3
+Donald Becker         0 2  1084
+Harriet Maldonado     1 3   588   690
+Kenneth Fleming       0 3  1400   936
+Steven Vega           0 2  1313
+Edward Sutton         0 3   527   911
+Brian Cohen           0 2  1905
+Blanche Jennings      1 4  53   23
+Sandy Parks           1 1  40
+Kevin Mcdaniel        0 3  1175   518
+Jason Watts           0 2   941
+Iris Barker           1 3   609   969
+Eunice Norris         1 4  23   20
+Angie Vaughn          1 3   941   816
+Inez Vazquez          1 3   873   792
+Larry Holt            0 2  1563
+Jeffrey Schwartz      0 4  16    7
+Amelia Steele         1 5  38 3
+Alberta Benson        1 4  18    3
+Genevieve Neal        1 1  43
+Monique Dominguez     1 2  1807
+Jodi Horton           1 1  22
+Raymond Terry         0 3  1417   644
+Maggie Wolfe          1 4  27   14
+Joshua Hale           0 5  29 2
+Sonya Lyons           1 4  33   43
+Jan Graves            1 2   910
+Lee Haynes            1 3   803   768
+Patrick Miles         0 2  2109
+Peter Park            0 2  1043
+Fannie Warner         1 5  40 2
+Douglas Padilla       0 3  1265   885
+Henry Bush            0 2  2260
+Alison Thornton       1 2   913
+Arthur Mccarthy       0 2  2149
+Ryan Mann             0 5  53 2
+Luz Zimmerman         1 2  1624
+Joe Erickson          0 1  29
+Juan Fletcher         0 2  1444
+Jack Mckinney         0 1  36
+Albert Page           0 2   968
+Jonathan Dawson       0 3   923   856
+Justin Joseph         0 3   834   502
+Lula Marquez          1 4  44   45
+Gerald Reeves         0 3   713   829
+Verna Klein           1 1  45
+Samuel Espinoza       0 1  54
+Willie Baldwin        0 4  17   45
+Ralph Moran           0 3  1255   980
+Juana Love            1 5  47 1
+Jeannette Robbins     1 5  34 1
+Pam Higgins           1 5  53 2
+Kelli Ball            1 2  1613
+Hannah Cortez         1 1  15
+Whitney Le            1 1  22
+Bridget Griffith      1 5  42 1
+Karla Bowen           1 1  38
+Fred Sharp            0 3  1056   578
+Latoya Cummings       1 1  17
+Patty Ramsey          1 5  28 3
+Steve Hardy           0 2   976
+Louis Swanson         0 2  1621
+Della Barber          1 1  37
+Aaron Acosta          0 5  20 2
+Lynne Luna            1 1  35
+Sheri Chandler        1 5  50 3
+Marianne Blair        1 2   854
+Kara Daniel           1 5  25 1
+Jacquelyn Cross       1 3  1284   623
+Erma Simon            1 4  50   40
+Blanca Dennis         1 3   545   732
+Myra Oconnor          1 1  24
+Leticia Quinn         1 5  18 3
+Pat Gross             1 4  31   44
+Krista Navarro        1 1  27
+Roxanne Moss          1 5  33 3
+Craig Fitzgerald      0 2   802
+Johnnie Doyle         1 5  17 3
+Robyn Mclaughlin      1 4  20   39
+Francis Rojas         1 5  16 3
+Sean Rodgers          0 5  27 3
+Philip Stevenson      0 1  37
+Chris Singh           0 1  29
+Brooke Yang           1 4  25   14
+Earl Figueroa         0 5  52 3
+Sadie Harmon          1 3  1428   681
+Bernadette Newton     1 5  16 3
+Traci Paul            1 2  1069
+Bryan Manning         0 3   653   748
+Tony Garner           0 1  41
+Luis Mcgee            0 2  1910
+Mike Reese            0 2  1569
+Stanley Francis       0 5  18 2
+Chelsea Burgess       1 4  34   35
+Mable Adkins          1 4  32   37
+Dale Goodman          0 5  32 1
+Manuel Curry          0 1  42
+Rodney Brady          0 5  32 3
+Elena Christensen     1 2   933
+Krystal Potter        1 3  1488   741
+Angelina Walton       1 2  1186
+Marvin Goodwin        0 2  1804
+Vincent Mullins       0 3   988   708
+Glenn Molina          0 4  28    4
+Jeffery Webster       0 1  33
+Paulette Fischer      1 1  51
+Jeff Campos           0 2  1656
+Chad Avila            0 4  46   30
+Jacob Sherman         0 2  2057
+Rosemarie Todd        1 4  44   38
+Angel Chang           1 1  44
+Desiree Blake         1 1  25
+Kyle Malone           0 3   994   914
+Francis Wolf          0 2  1628
+Bradley Hodges        0 2  1190
+Jesus Juarez          0 3   737   956
+Betsy Gill            1 2  1282
+Christie Farmer       1 1  53
+Freda Hines           1 4  17   27
+Mercedes Gallagher    1 2  1515
+Meredith Duran        1 3  1412   637
+Lynette Hubbard       1 1  38
+Eddie Cannon          0 2  1052
+Ricky Miranda         0 5  31 3
+Troy Wang             0 3   684   848
+Leigh Saunders        1 5  33 1
+Barry Tate            0 5  41 1
+Alexander Mack        0 4  16   17
+Eloise Hammond        1 4  42   48
+Rochelle Carrillo     1 5  46 1
+Gretchen Townsend     1 5  23 3
+Francisco Wise        0 3  1457   547
+Raquel Ingram         1 5  29 1
+Henrietta Barton      1 5  50 3
+Theodore Mejia        0 2  2231
+Jana Ayala            1 3   663   659
+Kelley Schroeder      1 2  1963
+Oscar Hampton         0 1  49
+Jay Rowe              0 2  2223
+Jenna Parsons         1 3  1405   919
+Tom Frank             0 4  52   45
+Laverne Waters        1 2  1452
+Alex Strickland       0 3  1335   923
+Jon Osborne           0 5  21 3
+Tasha Maxwell         1 5  53 3
+Silvia Chan           1 1  53
+Lloyd Deleon          0 2  2021
+Casey Norman          1 5  48 1
+Leon Harrington       0 1  31
+Sophie Casey          1 1  48
+Warren Patton         0 2  1365
+Darrell Logan         0 2  1472
+Jerome Bowers         0 1  38
+Floyd Mueller         0 4  27    7
+Leo Glover            0 2  1982
+Alvin Floyd           0 1  18
+Lana Hartman          1 2  1489
+Wesley Buchanan       0 3   810   500
+Gordon Cobb           0 3  1066   502
+Dean French           0 4  24   14
+Essie Kramer          1 4  52   38
+Mandy Mccormick       1 4  20   15
+Dustin Clarke         0 5  36 3
+Pedro Tyler           0 1  26
+Derrick Gibbs         0 2  1568
+Jeannie Moody         1 1  54
+Lewis Conner          0 1  36
+Dixie Sparks          1 5  54 3
+Lucia Mcguire         1 2  1115
+Herman Leon           0 2  1951
+Faith Bauer           1 3   503   709
+Lela Norton           1 2  1272
+Johanna Pope          1 5  35 2
+Shari Flynn           1 2  1569
+Camille Hogan         1 2  2096
+Tami Robles           1 1  25
+Shane Salinas         0 4  33    9
+Elisa Yates           1 2  1474
+Sam Lindsey           0 4  22   27
+Melba Lloyd           1 5  34 3
+Lester Marsh          0 2  1531
+Brent Mcbride         0 4  25   46
+Tabitha Owen          1 2  2233
+Charlie Solis         0 5  54 3
+Jaime Pham            1 2  1955
+Winifred Lang         1 4  41   19
+Gene Pratt            0 4  22   26
+Marc Lara             0 1  37
+Alisha Brock          1 4  21    8
+Ruben Ballard         0 1  45
+Rena Trujillo         1 3   531   621
+Angel Shaffer         0 5  24 2
+Marla Drake           1 1  15
+Tammie Roman          1 1  22
+Leslie Aguirre        0 5  51 3
+Edgar Morton          0 3   545   864
+Milton Stokes         0 5  36 3
+Raul Lamb             0 2  1525
+Sherrie Pacheco       1 5  21 2
+Chester Patrick       0 1  18
+Cecil Cochran         0 2  1875
+Duane Shepherd        0 1  18
+Stacie Cain           1 4  33   32
+Andre Burnett         0 4  29   43
+Elmer Hess            0 4  33   41
+Shelby Li             1 4  31   36
+Abigail Cervantes     1 1  30
+Ron Olsen             0 3  1040   632
+Mitchell Briggs       0 5  39 1
+Cara Ochoa            1 3   505   723
+Adele Cabrera         1 4  21   17
+Rebekah Velasquez     1 1  26
+Lucinda Montoya       1 2  2184
+Adrian Roth           0 1  47
+Chris Meyers          1 5  40 3
+Cory Cardenas         0 1  26
+Trina Fuentes         1 5  34 1
+Erik Weiss            0 3  1435   996
+Shawn Wilkins         1 5  45 2
+Jamie Hoover          0 2  2255
+Neil Nicholson        0 4  40    6
+Jessie Underwood      0 4  44   31
+Christian Short       0 2  1779
+Javier Carson         0 5  43 3
+Kerri Morrow          1 4  26    8
+Trisha Colon          1 2  1702
+Ted Holloway          0 3  1117   727
+Mathew Summers        0 2  1304
+Francisca Bryan       1 3   729   549
+Josie Petersen        1 4  19   14
+Lonnie Mckenzie       0 4  40   31
+Lance Serrano         0 5  23 1
+Cody Wilcox           0 2  1962
+Brittney Carey        1 4  45   29
+Kelly Clayton         0 3   833   761
+Kurt Poole            0 3  1007   734
+Allan Calderon        0 4  22   20
+Helene Gallegos       1 3   772   957
+Guy Greer             0 3   960   857
+Elva Rivas            1 3  1086   640
+Hugh Guerra           0 2  1557
+Max Decker            0 1  38
+Dwayne Collier        0 4  35   23
+Bettie Wall           1 2  1389
+Armando Whitaker      0 4  25    7
+Aida Bass             1 4  37    5
+Jimmie Flowers        0 3   908   552
+Everett Davenport     0 3   798   543
+Iva Conley            1 1  26
+Eugenia Houston       1 4  15   29
+Wallace Huff          0 2  1781
+Ken Copeland          0 4  40   43
+Cassie Hood           1 5  50 1
+Maude Monroe          1 2  2211
+Casey Massey          0 3  1058   945
+Alfredo Roberson      0 5  16 2
+Alberto Combs         0 1  37
+Dave Franco           0 2  1180
+Ivan Larsen           0 5  50 3
+Janette Pittman       1 5  27 2
+Latonya Randall       1 1  45
+Byron Skinner         0 5  41 1
+Morgan Wilkinson      1 2  2008
+Consuelo Kirby        1 5  42 1
+Morris Cameron        0 4  18    7
+Rosetta Bridges       1 1  20
+Debora Anthony        1 2  2128
+Daryl Richard         0 3  1237   753
+Ross Kirk             0 1  43
+Virgil Bruce          0 2  1082
+Jewell Singleton      1 2  1554
+Marshall Mathis       0 3  1134   703
+Salvador Bradford     0 5  22 3
+Dorothea Boone        1 2  1055
+Kirk Abbott           0 4  19   34
+Sergio Charles        0 1  47
+Esperanza Allison     1 2  1589
+Tracy Sweeney         0 4  52   37
+Seth Atkinson         0 5  44 2
+Kent Horn             0 4  37   41
+Helena Jefferson      1 4  53   47
+Carolina Rosales      1 3  1393   977
+Eduardo York          0 5  24 2
+Terrence Christian    0 4  33   44
+Enrique Phelps        0 2  1831
+Freddie Farrell       0 4  50   47
+James Castaneda       0 2  1838
+John Nash             0 1  24
+Robert Dickerson      0 1  40
+Alisa Bond            1 4  33   37
+Lou Wyatt             1 1  35
+David Foley           0 1  42
+Susanne Chase         1 5  32 3
+Bette Gates           1 3   627   799
+Susana Vincent        1 2  1049
+Elise Mathews         1 2  2191
+Christopher Hodge     0 1  43
+Isabelle Garrison     1 5  39 2
+Paul Trevino          0 2  2250
+Jocelyn Villarreal    1 5  19 1
+Paige Heath           1 1  37
+Joni Dalton           1 5  22 2
+Rachelle Valencia     1 1  30
+Leola Callahan        1 1  21
+Daphne Hensley        1 3  1292   646
+Alta Atkins           1 2  1374
+Ester Huffman         1 1  16
+Anthony Roy           0 2  1175
+Graciela Boyer        1 1  33
+Jason Shields         0 4  49   15
+Matthew Lin           0 3  1078   784
+Gary Hancock          0 5  31 3
+Lacey Grimes          1 3   866   611
+Glenna Glenn          1 2  1593
+Larry Cline           0 5  46 2
+Keri Delacruz         1 3  1087   700
+Ursula Camacho        1 3   630   964
+Lizzie Dillon         1 5  28 3
+Kirsten Parrish       1 2  1214
+Stephen Oneill        0 3   937   559
+Andrew Melton         0 4  46    1
+Raymond Booth         0 4  16    6
+Gregory Kane          0 4  28   46
+Jaclyn Berg           1 4  42   10
+Gracie Harrell        1 3  1153   661
+Sondra Pitts          1 3   922   999
+Carmela Savage        1 5  54 3
+Patrick Wiggins       0 3  1053   852
+Peter Brennan         0 5  33 3
+Charity Salas         1 2  2161
+Tonia Marks           1 5  18 3
+Beatriz Russo         1 4  36   46
+Carl Sawyer           0 1  27
+Arthur Baxter         0 5  26 1
+Ryan Golden           0 2  1545
+Sheena Hutchinson     1 2  1588
+Joe Liu               0 4  49    4
+Juan Walter           0 4  48    4
+Lily Mcdowell         1 1  52
+Robbie Wiley          1 3  1069   738
+Jonathan Rich         0 2  2111
+Justin Humphrey       0 4  30   34
+Terry Johns           0 3  1463   960
+Cathleen Koch         1 1  23
+Angelia Suarez        1 3   995   823
+Samuel Hobbs          0 4  23   31
+Willie Beard          0 1  20
+Ralph Gilmore         0 1  19
+Summer Ibarra         1 1  48
+Jodie Keith           1 4  25   36
+Roy Macias            0 2  1623
+Lea Khan              1 5  33 3
+Christi Andrade       1 3  1202   620
+Brandon Ware          0 5  48 2
+Justine Stephenson    1 4  39   35
+Elma Henson           1 3   994   728
+Fred Wilkerson        0 1  20
+Wayne Dyer            0 2  2128
+Dominique Mcclure     1 3  1475   743
+Steve Blackwell       0 5  27 3
+Rene Mercado          1 2  1432
+Jeremy Tanner         0 1  20
+Aaron Eaton           0 2  1306
+Mavis Clay            1 2  1931
+Howard Barron         0 2   894
+Eugene Beasley        0 5  22 3
+Maritza Oneal         1 3   726   617
+Russell Small         0 5  40 3
+Bobby Preston         0 4  30    8
+Victor Wu             0 3   601   636
+Martin Zamora         0 5  32 3
+Ernest Macdonald      0 4  34   18
+Phillip Vance         0 5  32 3
+Todd Snow             0 4  29    4
+Willa Mcclain         1 2  1419
+Manuela Stafford      1 4  22   29
+Alan Orozco           0 1  22
+Selma Barry           1 3  1365   896
+Clarence English      0 1  26
+Sean Shannon          0 4  28   41
+Philip Kline          0 5  29 1
+Chris Jacobson        0 5  25 3
+Dale Woodard          1 5  29 2
+Earl Huang            0 5  29 2
+Dee Kemp              1 4  47   14
+Antonio Mosley        0 5  27 3
+Marcy Prince          1 1  34
+Luisa Merritt         1 2  1180
+Tony Hurst            0 2  1277
+Luis Villanueva       0 3  1279   664
+Ofelia Roach          1 5  48 3
+Meagan Nolan          1 5  42 1
+Leonard Lam           0 1  29
+Matilda Yoder         1 4  24   24
+Leila Mccullough      1 2   801
+Manuel Lester         0 2  1025
+Rodney Santana        0 2  1918
+Curtis Valenzuela     0 1  27
+Bettye Winters        1 4  32    5
+Allen Barrera         0 5  45 1
+Marvin Orr            0 2  1774
+Latisha Leach         1 2  1610
+Barbra Berger         1 5  22 2
+Georgina Mckee        1 1  18
+Eliza Strong          1 1  28
+Jeff Conway           0 2  1434
+Chad Stein            0 3  1189   910
+Rhoda Whitehead       1 3  1410   511
+Lee Bullock           0 5  15 2
+Melvin Escobar        0 3   644   726
+Nola Knox             1 2  1340
+Kyle Meadows          0 1  35
+Flossie Solomon       1 1  21
+Ila Velez             1 1  33
+Jesus Odonnell        0 4  25   46
+Herbert Kerr          0 3   849   976
+Nelda Stout           1 3  1420   935
+Minerva Blankenship   1 3   541   527
+Lilly Browning        1 4  27   37
+Edwin Kent            0 2  1413
+Letha Lozano          1 1  27
+Eddie Bartlett        0 5  28 1
+Estela Pruitt         1 5  18 2
+Valarie Buck          1 4  50    9
+Randall Barr          0 4  54   44
+Barry Gaines          0 1  18
+Alexander Durham      0 3   966   666
+Bernard Gentry        0 1  37
+Mario Mcintyre        0 1  52
+Mia Sloan             1 5  37 3
+Francisco Rocha       0 5  20 2
+Lidia Melendez        1 3   623   578
+Micheal Herman        0 2  1362
+Alexandria Sexton     1 3  1139   535
+Clifford Moon         0 2  1107
+Tia Hendricks         1 3   814   535
+Oscar Rangel          0 4  17   23
+Jay Stark             0 4  29   18
+Jim Lowery            0 1  41
+Tom Hardin            0 1  23
+Jami Hull             1 3  1092   543
+Alex Sellers          0 1  31
+Jon Ellison           0 4  47    9
+Ronnie Calhoun        0 1  44
+Neva Gillespie        1 4  48   44
+Marylou Mora          1 5  34 1
+Tommy Knapp           0 4  38    4
+Leon Mccall           0 1  46
+Derek Morse           0 4  31   15
+Avis Dorsey           1 2  1588
+Darrell Weeks         0 3  1005   904
+Jerome Nielsen        0 4  31   24
+Jeanie Livingston     1 1  49
+Leo Leblanc           0 1  52
+Nannie Mclean         1 2  2159
+Harriett Bradshaw     1 5  25 3
+Wesley Glass          0 4  40   47
+Penelope Middleton    1 3   612   676
+Milagros Buckley      1 3   975   682
+Emilia Schaefer       1 1  51
+Jorge Frost           0 4  37   47
+Dustin Howe           0 5  30 2
+Pedro House           0 1  19
+Derrick Mcintosh      0 5  33 3
+Tommie Ho             1 4  45   45
+Lewis Pennington      0 1  19
+Karina Reilly         1 1  48
+Eve Hebert            1 1  23
+Herman Mcfarland      0 3   655   555
+Maurice Hickman       0 4  54   20
+Malinda Noble         1 5  33 2
+Noreen Spears         1 3   657   908
+Clyde Conrad          0 3  1427   883
+Glen Arias            0 1  37
+Hillary Galvan        1 2  1535
+Amie Velazquez        1 5  38 3
+Althea Huynh          1 3  1228   966
+Rosalinda Frederick   1 2  1065
+Jordan Randolph       1 1  46
+Lilia Cantu           1 1  27
+Brent Fitzpatrick     0 2  1408
+Ramon Mahoney         0 2  1015
+Clare Peck            1 2   975
+Tyler Villa           0 4  32   25
+Gilbert Michael       0 3  1032   924
+Michael Donovan       1 4  22   34
+Lorrie Mcconnell      1 1  20
+Reginald Walls        0 5  19 1
+Ruben Boyle           0 4  33   39
+Earnestine Mayer      1 1  49
+Carmella Zuniga       1 3   978   884
+Taylor Giles          1 3   633   885
+Noemi Pineda          1 1  37
+Marcie Pace           1 4  19    3
+Liza Hurley           1 1  50
+Milton Mays           0 3   528   872
+Louisa Mcmillan       1 1  29
+Earlene Crosby        1 3  1016   952
+Chester Ayers         0 5  26 1
+Cecil Case            0 3   875   533
+Nita Bentley          1 3  1093   770
+Selena Shepard        1 3   719   603
+Tanisha Everett       1 5  20 1
+Katy Pugh             1 3   566   880
+Julianne David        1 2  1485
+John Mcmahon          1 4  38   45
+Ron Dunlap            0 3  1008   878
+Mitchell Bender       0 2  1059
+Roland Hahn           0 3   580   782
+Margery Harding       1 4  47   38
+Harvey Acevedo        0 2  1625
+Dollie Raymond        1 4  36   36
+Roxie Blackburn       1 1  39
+Roslyn Duffy          1 4  43   47
+Kathrine Landry       1 5  52 3
+Nanette Dougherty     1 3   964   967
+Erik Bautista         0 4  15    3
+Darryl Shah           0 5  34 3
+Jamie Potts           0 4  35   31
+Kris Arroyo           1 1  24
+Tammi Valentine       1 4  46   21
+Suzette Meza          1 4  41   11
+Javier Gould          0 5  29 3
+Fernando Vaughan      0 5  53 1
+Jerry Fry             1 4  45   34
+Merle Rush            1 4  34   31
+Chrystal Avery        1 3   976   896
+Tyrone Herring        0 4  17   18
+Darren Dodson         0 2  1824
+Lilian Clements       1 4  34   39
+Lance Sampson         0 3   681   901
+Aline Tapia           1 4  23   33
+Julio Bean            0 3   537   826
+Kelly Lynn            0 2  1248
+Kurt Crane            0 1  30
+Allan Farley          0 1  54
+Colette Cisneros      1 3   573   821
+Guy Benton            0 1  29
+Clayton Ashley        0 2  1112
+Yesenia Mckay         1 1  37
+Max Finley            0 5  24 3
+Dwayne Best           0 3  1108   747
+Dwight Blevins        0 1  33
+Eddie Friedman        1 4  29   30
+Felix Moses           0 4  32   29
+Valeria Sosa          1 4  32   13
+Nona Blanchard        1 3   621   694
+Jordan Huber          0 1  35
+Ian Frye              0 1  23
+Georgette Krueger     1 3  1089   520
+Claudine Bernard      1 2  1537
+Fran Rosario          1 1  25
+Jaime Rubio           0 4  30   11
+Roseann Mullen        1 2  2283
+Alfredo Benjamin      0 1  46
+Susanna Haley         1 4  17   29
+Reva Chung            1 5  33 3
+Deidre Moyer          1 1  49
+Johnnie Choi          0 4  15   11
+Sheree Horne          1 2  1103
+Byron Yu              0 5  21 3
+Julian Woodward       0 3  1439   604
+Elvia Ali             1 5  28 1
+Morris Nixon          0 2  1940
+Clifton Hayden        0 3  1044   762
+Gena Rivers           1 2  2238
+Daryl Estes           0 4  54   39
+Araceli Mccarty       1 1  44
+Virgil Richmond       0 3   708   550
+Rosanne Stuart        1 5  43 2
+Wendi Maynard         1 5  54 3
+Salvador Brandt       0 5  37 2
+Berta Oconnell        1 5  38 1
+Marva Hanna           1 1  48
+Imelda Sanford        1 1  46
+Marietta Sheppard     1 4  20   10
+Marci Church          1 1  42
+Seth Burch            0 1  42
+Kent Levy             0 1  16
+Sasha Rasmussen       1 2  1890
+Madelyn Coffey        1 5  27 2
+Janna Ponce           1 4  25    9
+Terrence Faulkner     0 5  24 1
+Enrique Donaldson     0 1  46
+Aurelia Schmitt       1 1  22
+Wade Novak            0 1  48
+Augusta Costa         1 4  43   30
+John Montes           0 3  1230   538
+Young Booker          1 5  50 3
+Christian Cordova     1 3  1139   875
+Lessie Waller         1 3   889   735
+Amalia Arellano       1 5  36 2
+Richard Maddox        0 4  28   10
+Charles Mata          0 5  49 3
+Joseph Bonilla        0 4  29   14
+Thomas Stanton        0 3   710   768
+Christopher Compton   0 1  43
+Daniel Kaufman        0 5  51 3
+Paul Dudley           0 2  1445
+Mark Mcpherson        0 1  46
+Leanna Beltran        1 1  23
+Carey Dickson         1 2  1474
+Kenneth Mccann        0 4  37   20
+Coleen Villegas       1 1  17
+Edward Proctor        0 5  20 2
+Aisha Hester          1 2  1803
+Ronald Cantrell       0 1  43
+Karyn Daugherty       1 1  17
+Kevin Cherry          0 4  29   36
+Jason Bray            0 1  44
+Matthew Davila        0 3   760   936
+Mai Rowland           1 2  1722
+Timothy Madden        0 1  51
+Rosanna Levine        1 2  2067
+Hallie Spence         1 4  43   29
+Erna Good             1 5  25 3
+Enid Irwin            1 2   934
+Mariana Werner        1 1  49
+Lacy Krause           1 4  31   45
+Juliet Petty          1 4  39    4
+Andrew Whitney        0 2  2276
+Raymond Baird         0 1  15
+Gregory Hooper        0 1  36
+Joshua Pollard        0 3   983   923
+Hester Zavala         1 3   707   755
+Dennis Jarvis         0 1  23
+Lelia Holden          1 5  22 1
+Casandra Haas         1 2  2140
+Bridgett Hendrix      1 4  33    5
+Angelita Mcgrath      1 3   984   767
+Jannie Bird           1 5  38 3
+Henry Lucero          0 2  2049
+Carl Terrell          0 4  29   25
+Katina Riggs          1 3   559   587
+Beryl Joyce           1 1  51
+Roger Mercer          0 4  17   34
+Joe Rollins           0 1  28
+Juan Galloway         0 2  1961
+Jack Duke             0 5  36 3
+Albert Odom           0 2  2143
+Jonathan Andersen     0 4  51    7
+Justin Downs          0 3  1438   737
+Terry Hatfield        0 5  35 3
+Gerald Benitez        0 2  1155
+Gilda Archer          1 2  1964
+Adrian Huerta         1 3  1207   681
+Rhea Travis           1 1  17
+Marquita Mcneil       1 3   519   857
+Lawrence Hinton       0 1  42
+Nicholas Zhang        0 4  21   18
+Roy Hays              0 4  31   29
+Angelique Mayo        1 1  39
+Francesca Fritz       1 1  53
+Brandon Branch        0 4  38   44
+Kaitlin Mooney        1 2  1632
+Harry Ewing           0 1  38
+Florine Ritter        1 3   973   602
+Wayne Esparza         0 2  1351
+Reyna Frey            1 1  48
+Steve Braun           0 1  35
+Fanny Gay             1 1  20
+Jeremy Riddle         0 3   588   731
+Aaron Haney           0 2  1991
+Concetta Kaiser       1 1  25
+Bertie Holder         1 1  16
+Eugene Chaney         0 3   640   617
+Carlos Mcknight       0 3  1015   986
+Alyson Gamble         1 3  1036   908
+Bobby Vang            0 1  42
+Victor Cooley         0 4  17   48
+Martin Carney         0 5  33 3
+Ernest Cowan          0 1  19
+Phillip Forbes        0 5  25 3
+Todd Ferrell          0 4  46   30
+Deann Davies          1 1  47
+Craig Barajas         0 3   733   831
+Louella Shea          1 4  43    6
+Shawn Osborn          0 1  20
+Felecia Bright        1 4  16   17
+Sean Cuevas           0 1  52
+Lesa Bolton           1 2  1707
+Beverley Murillo      1 3   536   936
+Robert Lutz           1 2  1977
+Earl Duarte           0 5  15 3
+Herminia Kidd         1 5  35 2
+Antonio Key           0 4  26   31
+Danny Cooke           0 3   823   555
+Luna Andrews          1 2  1739
+Camilla reds          1 2  2110
+                      9           
