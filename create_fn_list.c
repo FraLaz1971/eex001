@@ -15,6 +15,25 @@ int main(){
     int j,i=0;
     char names[MAXDIM][64];
     unsigned int rv[10];
+    i=0;
+    printf("SURNAMES\n");
+    while(surnames_list[i]!=NULL){
+        printf("%d %s\n",i,surnames_list[i]);
+        i++;
+    }
+    i=0;
+    printf("FEMALE NAMES\n");
+    while(female_names_list[i]!=NULL){
+        printf("%d %s\n",i,female_names_list[i]);
+        i++;
+    }
+    i=0;
+    printf("MALE NAMES\n");
+    while(male_names_list[i]!=NULL){
+        printf("%d %s\n",i,male_names_list[i]);
+        i++;
+    }
+    return 0;
     srand(time(NULL));
     printf("      DATA SEX /1,0,\n");
     while(i<MAXDIM){
