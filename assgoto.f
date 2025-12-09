@@ -1,0 +1,30 @@
+      PROGRAM ASGOTO
+        IMPLICIT NONE
+        INTEGER N,I
+        PRINT *,'ENTER A NUMBER [100,200,300,400]'
+        READ *,I
+        IF (I.EQ.100) THEN
+          ASSIGN 100 TO N
+        ELSE IF (I.EQ.200) THEN
+          ASSIGN 200 TO N
+        ELSE IF (I.EQ.300) THEN
+          ASSIGN 300 TO N
+        ELSE IF (I.EQ.400) THEN
+          ASSIGN 400 TO N
+        ELSE
+          GOTO 1000
+        END IF
+        GOTO N,(100,200,300,400)
+        GOTO 1000
+100     PRINT *,'YOU SELECTED THE 100 BRANCH'
+        GOTO 1000
+200     PRINT *,'YOU SELECTED THE 200 BRANCH'
+        GOTO 1000
+300     PRINT *,'YOU SELECTED THE 300 BRANCH'
+        GOTO 1000
+400     PRINT *,'YOU SELECTED THE 400 BRANCH'
+        GOTO 1000
+1000    CONTINUE
+        PRINT *,'END OF THE PROGRAM'
+        STOP
+      END
